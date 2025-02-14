@@ -1,5 +1,5 @@
 import "./home.css";
-import { DNZRDheader } from "../components/dnzrd-header.jsx";
+import { DNZRDheader } from "../components/DNZRD-header.jsx";
 
 export const Home = () => {
     return (
